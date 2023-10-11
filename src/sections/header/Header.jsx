@@ -13,7 +13,7 @@ const Header = () => {
         <p>
           You are a click away from building your dream website or web app. Send
           me the details of your project for a modern, mobile responsive, highly
-          performant website today!
+          performant app today!
         </p>
         <div className='header__cta'>
           <a href='#contact' className='btn primary'>
