@@ -26,14 +26,10 @@ const Footer = () => {
         </div>
       </div>
       <div className='footer__copyright'>
-        <small>
-          <p>
-            <script type='text/javascript'>
-              document.write(new Date().getFullYear());
-            </script>
-          </p>
-          zvitamboDev &copy; All Rights Reserved
-        </small>
+        <p>
+         
+          <small> 2024 ZvitamboDev &copy; All Rights Reserved</small>
+        </p>
       </div>
     </footer>
   );
