@@ -25,7 +25,7 @@ export const socials = [
   },
   {
     id: 3,
-    link: "https://www.instagram.com/therealzvitambo/",
+    link: "https://www.instagram.com/zvitambodev/",
     icon: <AiOutlineInstagram />,
   },
   { id: 4, link: "https://twitter.com", icon: <AiOutlineTwitter /> },
