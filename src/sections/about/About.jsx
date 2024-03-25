@@ -33,8 +33,8 @@ const About = () => {
             than 50 happy clients worldwide, I'm always motivated to do more!
           </p>
           <p>
-            Hi, my name is Zvitambo Thomas Jindu from Bulawayo, Zimbabwe. I'm a full-stack web
-            developer with a Bachelors degree in Computer Science. My top
+            Hi, my name is Zvitambo Thomas Jindu from Bulawayo, Zimbabwe. I'm a fullstack web
+            developer with a solid background in Computer Science. My top
             priority is to get your business online the right way, giving you
             industry-standard design and all the functionality you need to
             operate smoothly online. Get in touch today with the details of your

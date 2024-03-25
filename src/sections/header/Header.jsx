@@ -11,7 +11,7 @@ const Header = () => {
         </div>
         <h3>Zvitambo Thomas Jindu</h3>
         <p>
-          You are a click away from building your dream website or web app. Send
+          You are a click away from building your dream web platform or app. Send
           me the details of your project for a modern, mobile responsive, highly
           performant app today!
         </p>

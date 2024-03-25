@@ -13,11 +13,11 @@ const data = [
         quote: "It's truly amazing how you did exactly what I want with the little information I gave. You'll be my go-to developer from today. Highly recommend!",
         avatar: Avatar1,
         name: 'Nana Ama McBrown',
-        profession: 'Actress'
+        profession: 'Entreprenuer/Disruptor'
         },
         {
         id: 2,
-        quote: "Good job, Hajia! Right on time! I really like how the project turned out, and my customers like it as well. It was fun collaborating with you.",
+        quote: "Good job, Tommy! Right on time! I really like how the project turned out, and my customers like it as well. It was fun collaborating with you.",
         avatar: Avatar2,
         name: 'Ernest Achiever',
         profession: 'Web Developer'
@@ -33,8 +33,8 @@ const data = [
         id: 4,
         quote: "Wow. You finished earlier than you said. Everything's modern and beautifully done to the T. Great profession!",
         avatar: Avatar4,
-        name: 'Diana Ayi',
-        profession: 'Singer'
+        name: 'Diana Mandela',
+        profession: 'Digital Creator'
         },
         {
         id: 5,
@@ -45,9 +45,9 @@ const data = [
         },
         {
         id: 6,
-        quote: "Best developer in the world!",
+        quote: "One of the best developers I have worked with!",
         avatar: Avatar6,
-        name: 'Hajia Bintu',
+        name: 'Gail Somerfield',
         profession: 'Brand Influencer'
         },
         {
