@@ -1,5 +1,5 @@
 import "./About.css";
-import AboutImage from "../../assets/about1.jpg";
+import AboutImage from "../../assets/aboutImage.jpg";
 import CV from "../../assets/Thomas Jindu_Backend_Engineer_CV.pdf";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
