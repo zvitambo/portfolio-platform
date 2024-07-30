@@ -15,7 +15,7 @@ const data = [
     image: Image1,
     title: "SME Banking Platform (Fullstack)",
     desc: "Small to medium enterprise banking app for creating savings groups. Community groups and small enterprises manage their savings amongst themselves, with options for giving loans amongst group members",
-    demo: "https://roundup-app-n1wm.vercel.app",
+    demo: "https://roundup.co.zw",
     github: "https://github.com/zvitambo/roundup_app",
   },
   {
