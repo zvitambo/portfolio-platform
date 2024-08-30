@@ -3,6 +3,9 @@ import Image2 from '../../assets/project2.png'
 import Image3 from '../../assets/project3.png'
 import Image4 from '../../assets/project4.png'
 import Image5 from '../../assets/project5.png'
+import Image6 from "../../assets/fms.png"
+import Image7 from "../../assets/pms.png"
+import Image8 from "../../assets/zvitamboDev.png";
 // import Image6 from '../../assets/project6.jpg'
 // import Image7 from '../../assets/project7.jpg'
 // import Image8 from '../../assets/project8.jpg'
@@ -21,16 +24,16 @@ const data = [
   {
     id: 2,
     category: "fullstack",
-    image: Image1,
-    title: "SME Banking Platform (Fullstack)",
-    desc: "Small to medium enterprise banking Software As An Application (Saas) platform for creating savings groups. Community groups and small enterprises manage their savings amongst themselves, with options for giving loans amongst group members",
-    demo: "https://roundup.co.zw",
-    github: "https://github.com/zvitambo/roundup_app",
+    image: Image2,
+    title: "Jindu Project Tracking Platform (Fullstack)",
+    desc: "I created this platform to initially keep track of planning and sharing updates about family projects, like home renovations, family functions and legal processes. It grew to become a platform for sharing family special events and memories too (photos, videos)",
+    demo: "https://jindu-project-tracker.onrender.com",
+    github: "https://github.com/zvitambo/project-tracker",
   },
   {
     id: 3,
     category: "fullstack",
-    image: Image1,
+    image: Image6,
     title: "FMS Financial management system (Fullstack)",
     desc: "A finance management Software As An Application (Saas) platform. All encompassing enterprise financial functionality- Nextjs 14, ReactJs, Typescript, Tailwind CSS, Drizzle, Neon, Clerk Authentication",
     demo: "https://fms-ruby.vercel.app/",
@@ -39,7 +42,7 @@ const data = [
   {
     id: 4,
     category: "fullstack",
-    image: Image2,
+    image: Image7,
     title: "PMS Patient Care Platform (Fullstack)",
     desc: "A Patient management Software As An Application (Saas) platform. For capturing medical records and booking doctors appointments, with sms notifications.",
     demo: "https://vercel.com/zvitambos-projects/careplatform",
@@ -75,7 +78,7 @@ const data = [
   {
     id: 8,
     category: "frontend",
-    image: Image5,
+    image: Image8,
     title: "ZvitamboDev Website",
     desc: "A software development company website show casing thier multiple products and services",
     demo: "https://www.zvitamboDev.co.zw",
