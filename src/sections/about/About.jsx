@@ -40,9 +40,9 @@ const About = () => {
             operate smoothly online. Get in touch today with the details of your
             project let's get started! Check out my resume below!
           </p>
-          <a href={CV} download className='btn primary'>
+          {/* <a href={CV} download className='btn primary'>
             Download CV <HiDownload />
-          </a>
+          </a> */}
         </div>
       </div>
     </section>
