@@ -1,7 +1,7 @@
 import "./About.css";
 import AboutImage from "../../assets/aboutImage.jpg";
-import CV from "../../assets/Thomas Jindu_Backend_Engineer_CV.pdf";
-import { HiDownload } from "react-icons/hi";
+//import CV from "../../assets/Thomas Jindu_Backend_Engineer_CV.pdf";
+//import { HiDownload } from "react-icons/hi";
 import data from "./data";
 import Card from "../../components/Card";
 

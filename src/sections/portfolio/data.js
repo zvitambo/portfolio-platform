@@ -6,6 +6,7 @@ import Image5 from '../../assets/project5.png'
 import Image6 from "../../assets/fms.png"
 import Image7 from "../../assets/pms.png"
 import Image8 from "../../assets/zvitamboDev.png";
+import Image9 from "../../assets/task.png";
 // import Image6 from '../../assets/project6.jpg'
 // import Image7 from '../../assets/project7.jpg'
 // import Image8 from '../../assets/project8.jpg'
@@ -15,20 +16,20 @@ const data = [
   {
     id: 1,
     category: "fullstack",
+    image: Image9,
+    title: "Task Planner (Fullstack)",
+    desc: "Collaborate, manage projects, and reach new productivity peaks. From high rises to the home offices, the way your team works is unique — accomplish it all with Task-Planner.",
+    demo: "https://task-planner-rho.vercel.app",
+    github: "https://github.com/zvitambo/organization_management",
+  },
+  {
+    id: 2,
+    category: "fullstack",
     image: Image1,
     title: "SME Banking Platform (Fullstack)",
     desc: "Small to medium enterprise banking app for creating savings groups. Community groups and small enterprises manage their savings amongst themselves, with options for giving loans amongst group members",
     demo: "https://roundup.co.zw",
     github: "https://github.com/zvitambo/roundup_app",
-  },
-  {
-    id: 2,
-    category: "fullstack",
-    image: Image2,
-    title: "Jindu Project Tracking Platform (Fullstack)",
-    desc: "I created this platform to initially keep track of planning and sharing updates about family projects, like home renovations, family functions and legal processes. It grew to become a platform for sharing family special events and memories too (photos, videos)",
-    demo: "https://jindu-project-tracker.onrender.com",
-    github: "https://github.com/zvitambo/project-tracker",
   },
   {
     id: 3,
@@ -42,6 +43,24 @@ const data = [
   {
     id: 4,
     category: "fullstack",
+    image: Image2,
+    title: "Jindu Project Tracking Platform (Fullstack)",
+    desc: "I created this platform to initially keep track of planning and sharing updates about family projects, like home renovations, family functions and legal processes. It grew to become a platform for sharing family special events and memories too (photos, videos)",
+    demo: "https://jindu-project-tracker.onrender.com",
+    github: "https://github.com/zvitambo/project-tracker",
+  },
+  {
+    id: 5,
+    category: "fullstack",
+    image: Image6,
+    title: "FMS Financial management system (Fullstack)",
+    desc: "A finance management Software As An Application (Saas) platform. All encompassing enterprise financial functionality- Nextjs 14, ReactJs, Typescript, Tailwind CSS, Drizzle, Neon, Clerk Authentication",
+    demo: "https://fms-ruby.vercel.app/",
+    github: "https://github.com/zvitambo/fms",
+  },
+  {
+    id: 6,
+    category: "fullstack",
     image: Image7,
     title: "PMS Patient Care Platform (Fullstack)",
     desc: "A Patient management Software As An Application (Saas) platform. For capturing medical records and booking doctors appointments, with sms notifications.",
@@ -49,7 +68,7 @@ const data = [
     github: "https://github.com/zvitambo/careplatform",
   },
   {
-    id: 5,
+    id: 7,
     category: "fullstack",
     image: Image3,
     title: "ChatGpt Clone (Fullstack)",
@@ -58,7 +77,7 @@ const data = [
     github: "https://github.com/zvitambo/zvitambo-chapgpt-clone",
   },
   {
-    id: 6,
+    id: 8,
     category: "uiux",
     image: Image4,
     title: "Zvitambo Thomas Jindu Website (UIUX)",
@@ -67,7 +86,7 @@ const data = [
     github: "https://github.com/zvitambo/portfolio-platform",
   },
   {
-    id: 7,
+    id: 9,
     category: "frontend",
     image: Image5,
     title: "Alternative Learning platform (Frontend)",
@@ -76,7 +95,7 @@ const data = [
     github: "https://github.com/zvitambo",
   },
   {
-    id: 8,
+    id: 10,
     category: "frontend",
     image: Image8,
     title: "ZvitamboDev Website",
