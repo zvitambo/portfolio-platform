@@ -1,8 +1,8 @@
-import Card from "../../components/Card";
+import PortfolioCard from "../../components/PortfolioCard";
 
 const Project = ({ project }) => {
   return (
-    <Card className='portfolio__project' >
+    <PortfolioCard className='portfolio__project' >
       <div className='portfolio__project-image'>
         <img src={project.image} alt='Portfolio Project' />
       </div>
@@ -26,7 +26,7 @@ const Project = ({ project }) => {
           Gitbub
         </a>
       </div>
-    </Card>
+    </PortfolioCard>
   );
 };
 

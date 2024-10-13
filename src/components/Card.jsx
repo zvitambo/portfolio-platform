@@ -1,15 +1,11 @@
-import './Card.css';
+import "./Card.css";
 
-const Card = ({children, className, onClick}) => {
-
+const Card = ({ children, className, onClick }) => {
   return (
     <article className={`card ${className}`} onClick={onClick}>
-      {/* <div style={{ display: "block", overflow: "scroll", height: "550px" }}> */}
-        <div style={{ display: "block",  height: "550px" }}>
-        {children}
-      </div>
+      {children}
     </article>
   );
-}
+};
 
-export default Card
+export default Card;
