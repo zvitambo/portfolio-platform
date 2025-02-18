@@ -1,8 +1,8 @@
 import Image1 from '../../assets/project1.png'
 import Image2 from '../../assets/project2.png'
 import Image3 from '../../assets/project3.png'
-//import Image4 from '../../assets/project4.png'
-import Image5 from '../../assets/project5.png'
+import Image4 from '../../assets/project4.png'
+//import Image5 from '../../assets/project5.png'
 import Image6 from "../../assets/fms.png"
 import Image7 from "../../assets/pms.png"
 import Image8 from "../../assets/zvitamboDev.png";
@@ -76,24 +76,24 @@ const data = [
     demo: "https://zvitambo-chapgpt-clone-live.vercel.app",
     github: "https://github.com/zvitambo/zvitambo-chapgpt-clone",
   },
-  // {
-  //   id: 8,
-  //   category: "uiux",
-  //   image: Image4,
-  //   title: "Zvitambo Thomas Jindu Website (UIUX)",
-  //   desc: "My personal website showcasing my portfolio. I created this website to show case my portfolio at the same time show casing my frontend development skills and UX design. Take a look at the code behind this beautiful website on my github account",
-  //   demo: "#",
-  //   github: "https://github.com/zvitambo/portfolio-platform",
-  // },
   {
-    id: 9,
-    category: "frontend",
-    image: Image5,
-    title: "Alternative Learning platform (Frontend)",
-    desc: "I created this in conjunction with a swiss based startup. The platform is dedicated to providing access and scheduling for alternative learning methods",
-    demo: "https://www.futureready.ch",
-    github: "https://github.com/zvitambo",
+    id: 8,
+    category: "uiux",
+    image: Image4,
+    title: "Zvitambo Thomas Jindu Website (UIUX)",
+    desc: "My personal website showcasing my portfolio. I created this website to show case my portfolio at the same time show casing my frontend development skills and UX design. Take a look at the code behind this beautiful website on my github account",
+    demo: "#",
+    github: "https://github.com/zvitambo/portfolio-platform",
   },
+  // {
+  //   id: 9,
+  //   category: "frontend",
+  //   image: Image5,
+  //   title: "Alternative Learning platform (Frontend)",
+  //   desc: "I created this in conjunction with a swiss based startup. The platform is dedicated to providing access and scheduling for alternative learning methods",
+  //   demo: "https://www.futureready.ch",
+  //   github: "https://github.com/zvitambo",
+  // },
   {
     id: 10,
     category: "frontend",
