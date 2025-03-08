@@ -2,7 +2,7 @@ import Image1 from '../../assets/project1.png'
 import Image2 from '../../assets/project2.png'
 import Image3 from '../../assets/project3.png'
 import Image4 from '../../assets/project4.png'
-//import Image5 from '../../assets/project5.png'
+import Image5 from '../../assets/reportion.png'
 import Image6 from "../../assets/fms.png"
 import Image7 from "../../assets/pms.png"
 import Image8 from "../../assets/zvitamboDev.png";
@@ -85,15 +85,15 @@ const data = [
     demo: "#",
     github: "https://github.com/zvitambo/portfolio-platform",
   },
-  // {
-  //   id: 9,
-  //   category: "frontend",
-  //   image: Image5,
-  //   title: "Alternative Learning platform (Frontend)",
-  //   desc: "I created this in conjunction with a swiss based startup. The platform is dedicated to providing access and scheduling for alternative learning methods",
-  //   demo: "https://www.futureready.ch",
-  //   github: "https://github.com/zvitambo",
-  // },
+  {
+    id: 9,
+    category: "fullstack",
+    image: Image5,
+    title: " connected workspace where better, faster work happens",
+    desc: "Customized Reports, Ideas, Documents & Plans",
+    demo: "https://reportion.vercel.app/",
+    github: "https://github.com/zvitambo",
+  },
   {
     id: 10,
     category: "frontend",
