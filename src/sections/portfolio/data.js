@@ -7,6 +7,7 @@ import Image6 from "../../assets/fms.png"
 import Image7 from "../../assets/pms.png"
 import Image8 from "../../assets/zvitamboDev.png";
 import Image9 from "../../assets/task.png";
+import Image10 from "../../assets/flexiprojman.png";
 // import Image6 from '../../assets/project6.jpg'
 // import Image7 from '../../assets/project7.jpg'
 // import Image8 from '../../assets/project8.jpg'
@@ -52,11 +53,11 @@ const data = [
   {
     id: 5,
     category: "fullstack",
-    image: Image6,
-    title: "FMS Financial management system (Fullstack)",
-    desc: "A finance management Software As An Application (Saas) platform. All encompassing enterprise financial functionality- Nextjs 14, ReactJs, Typescript, Tailwind CSS, Drizzle, Neon, Clerk Authentication",
-    demo: "https://fms-ruby.vercel.app/",
-    github: "https://github.com/zvitambo/fms",
+    image: Image10,
+    title: "360 Pro (Fullstack)",
+    desc: "A flexible and advanced project management platform thats caters for projects in the era we live in",
+    demo: "https://360-pro-man.vercel.app/",
+    github: "https://github.com/zvitambo/360ProMan",
   },
   {
     id: 6,
@@ -92,7 +93,7 @@ const data = [
     title: " connected workspace where better, faster work happens",
     desc: "Customized Reports, Ideas, Documents & Plans",
     demo: "https://reportion.vercel.app/",
-    github: "https://github.com/zvitambo",
+    github: "https://github.com/zvitambo/reportion",
   },
   {
     id: 10,
